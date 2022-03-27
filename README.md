@@ -1,7 +1,7 @@
 # XMoods_Yourself-FINAL
-> Created by rifza
+> Created by RzLModz
 >
-> How to install
+> How to install in termux
 >
 > $pkg update && pkg upgrade
 >
@@ -13,9 +13,9 @@
 >
 > $pkg install imagemagick
 >
-> $git clone https://github.com/Rifza123/XMoods_Yourself-FINAL
+> $git clone https://github.com/RzLModz/V6
 >
-> $cd XMoods_Yourself-FINAL
+> $cd V6
 >
 > $npm start
 >
@@ -39,6 +39,6 @@
 #randomtext
 >
 > If you find an error please contact me!
-wa.me/6287708357324
+wa.me/6288277562022
 >
-> ✨Thanks To all creator bot
+> ✨Thanks To all creator bot dan om recode di seluruh Nusantara
