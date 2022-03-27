@@ -1,6 +1,7 @@
-# XMoods_Yourself-FINAL
+# BOT WHATSAPP V6
 > Created by RzLModz
->
+> please subscribe my channel✔️
+> 
 > How to install in termux
 >
 > $pkg update && pkg upgrade
