@@ -1,16 +1,16 @@
 {
-"NamaBot":"〔 Sempakbot 〕", 
-"NomorOwner":["6288277562022@s.whatsapp.net","6283836899381@s.whatsapp.net"], 
-"NomorBot":"6283836899381@s.whatsapp.net",
-"TargetPC":"6288277562022@s.whatsapp.net",
-"NamaOwner":"Lord_RzLModz",
-"wm":")-----------〔 Sempakbot 〕-----------(",
+"NamaBot":"〔 RIEL-BOTZ 〕", 
+"NomorOwner":["6282146218274@s.whatsapp.net","6283112471048@s.whatsapp.net"], 
+"NomorBot":"6283112471048@s.whatsapp.net",
+"TargetPC":"6282146218274@s.whatsapp.net",
+"NamaOwner":"Lord_Rielmodz",
+"wm":")-----------〔 Rielbot 〕-----------(",
 "prefix":"#",
 "banchat": false,
-"autoread": false,
+"autoread": true,
 "autoketik": false,
 "autorecording": true,
-"autobio": false,
+"autobio": true,
 "zekais_api":"D6w9YSkr",
 "apikeyss":"a895d24c3f8a422b9a2a5731f99ae7c4",
 "DANGER":{
@@ -32,7 +32,7 @@
 "donasi":{ 
      "gopay":"088274342094",
       "gopayimg":"https://ibb.co/X5CLfTF",
-       "pulsa":"088274342094"
+       "pulsa":"083813417529"
          },
 "textpro":{
       "blackpink":"https://textpro.me/create-blackpink-logo-style-online-1001.html",
